@@ -1,0 +1,5 @@
+/.vs
+/packages
+/BulkMailSender/bin
+/BulkMailSender/obj
+/BulkMailSender/BulkMailSender.csproj.user
